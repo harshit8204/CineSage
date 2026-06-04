@@ -1,0 +1,14 @@
+openai
+groq
+google-generativeai
+mistralai
+langchain
+langchain-openai
+langchain-google-genai
+langchain-mistralai
+langchain-community
+python-dotenv
+pydantic
+tiktoken
+ipykernel
+langchain_huggingface
