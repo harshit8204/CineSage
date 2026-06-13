@@ -2,6 +2,7 @@
 
 An AI-powered movie information extraction tool that uses LangChain and Mistral AI to parse structured movie data from unstructured text paragraphs. Available as both a CLI tool and a Streamlit web app.
 
+https://cinesage-7nn7z7nkkzgjqmsychn7l5.streamlit.app/
 ---
 
 ## ✨ Features
